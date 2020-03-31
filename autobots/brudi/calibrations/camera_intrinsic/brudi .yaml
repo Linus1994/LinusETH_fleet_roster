@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [326.1974698081646, 0.0, 326.99999756534703, 0.0, 326.20780804228036, 246.0772128927197,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: brudi/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2855374799214119, 0.05807929213886701, 0.003249170063408155, 0.00047458079322465095,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [225.69383239746094, 0.0, 326.9160179531409, 0.0, 0.0, 260.3089294433594,
+    254.21698451673183, 0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
